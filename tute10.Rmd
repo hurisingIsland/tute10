@@ -1,0 +1,13 @@
+---
+
+title: "tute10"
+output: html_document
+
+---
+
+
+```{r}
+library(dbplyr)
+library(ggplot2)
+```
+
